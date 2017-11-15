@@ -49,7 +49,7 @@ print<'s'>();
 
 output:
     Catdog
-	s
+    s
 ```
 ```
 int a = 10, b = 5;
