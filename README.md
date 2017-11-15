@@ -48,7 +48,8 @@ print("dog");
 print<'s'>();
 
 output:
-    Catdogs
+    Catdog
+	s
 ```
 ```
 int a = 10, b = 5;
