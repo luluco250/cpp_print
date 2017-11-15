@@ -2,7 +2,7 @@
 ## Simple python-like *print()* wrapper for *std::cout*
 
 Defines a print() function that can receive
-any number of arguments and them to *std::cout*.
+any number of arguments and pass them to *std::cout*.
 
 You can specify end and separator
 characters through template arguments:
